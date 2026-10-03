@@ -15,7 +15,7 @@ A modular, lightweight Luau utility suite and game enhancement framework built u
 Run the following loadstring inside your executor:
 
 ```lua
-loadstring(game:HttpGet("[https://raw.githubusercontent.com/scenegore/TrannyWare/main/main.luau](https://raw.githubusercontent.com/scenegore/TrannyWare/main/main.luau)"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scenegore/TrannyWare/main/main.luau"))()
 ```
 
 ---
